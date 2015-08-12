@@ -5,7 +5,7 @@
 
 import java.sql.*;
 
-class TransactionTest2
+class TransactionSavepointTest
 {
 	public static void main(String s[])
 	{
