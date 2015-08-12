@@ -9,7 +9,7 @@ class BatchTest
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","ducatWE1","abc123");
+			Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","ducatPrac","abcd");
 		Statement st=con.createStatement();
 		st.addBatch("insert into student values('Lalit',102,99,'A')");
 		st.addBatch("insert into student values('Ajay',108,55,'C')");
