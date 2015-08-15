@@ -12,9 +12,9 @@ class SystemPropTest
 			
 			FileInputStream fin=new FileInputStream("xyz.txt");
 			System.out.println("changing the default stream of System class");
-			System.setIn(fin);
-			System.setOut(p1);
-			System.setErr(p2);
+			System.setIn(fin); //default is keyboard
+			System.setOut(p1); //default is console
+			System.setErr(p2); //default is log(?)
 			
 			BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 			while(true)
