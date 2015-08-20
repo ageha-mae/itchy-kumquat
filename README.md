@@ -16,12 +16,15 @@ Language Version : Java 7 and Java 8.
 3. Applet
 4. Array
 5. Collections
+6. Classes : Process, File, Properties
 
 
 ##To Do
 Swing
 
 JavaFX
+
+Classes : Object, Class, ...
 
 Networking
 
