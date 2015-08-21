@@ -1,6 +1,6 @@
 //version 11.1
 
-//This is the chat client program, run on client PCs. Same as simple server chatting
+//This is the chat client program, run on client PCs. Client has two threads - main thread sends messages to be broadcasted to the server, and reader thread that accepts messages sent out by the broadcast server
 
 // ChatClient.java
 
