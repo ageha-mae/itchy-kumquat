@@ -17,6 +17,7 @@ Language Version : Java 7 and Java 8.
 4. Array
 5. Collections
 6. Classes : Process, File, Properties
+7. Networking
 
 
 ##To Do
@@ -25,8 +26,6 @@ Swing
 JavaFX
 
 Classes : Object, Class, ...
-
-Networking
 
 RMI
 
