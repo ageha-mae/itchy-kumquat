@@ -1,5 +1,5 @@
 //Version 11.1
-
+// addBatch() and executeBatch() methods of Statement class to execute operations as a batch
 
 import java.sql.*;
 class BatchTest
