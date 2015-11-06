@@ -11,7 +11,7 @@ Language Version : Java 7 and Java 8.
 
 
 ##Done
-1. JDCB
+1. JDBC
 2. IO
 3. Applet
 4. Array
