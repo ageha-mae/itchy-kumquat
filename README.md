@@ -21,23 +21,18 @@ Language Version : Java 7 and Java 8.
 
 
 ##To Do
-Swing
-
-JavaFX
-
-Classes : Object, Class, ...
-
-RMI
-
-Servlets
-
-JSP
-
-Java Beans
-
-EJB
-
-Web Services
+1. Swing
+2. JavaFX
+3. Classes : Object, Class, ...
+4. RMI
+5. Servlets
+6. JSP
+7. Java Beans
+8. EJB
+9. Web Services
+10. Struts
+11. Spring
+12. Hibernate
 
 ..
 ..
