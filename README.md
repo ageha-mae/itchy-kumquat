@@ -1,4 +1,4 @@
-# itchy-kumquat
+# java7-self-learn
 *A directory of programs in Java*
 
 
